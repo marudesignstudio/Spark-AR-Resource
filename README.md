@@ -1,7 +1,7 @@
 # Spark AR Resource
 This is a Repo that summarizes useful resources in making Instagram / Facebook filters with Spark AR Studio.  This includes review links, images, audio, patches, scripts that you can use.
 
-<H3>Image compresion</h3></br>
+<b>Image compresion</b></br>
 https://tinypng.com/</br>
 TinyPNG uses smart lossy compression techniques to reduce the file size of your PNG files</br>
 
